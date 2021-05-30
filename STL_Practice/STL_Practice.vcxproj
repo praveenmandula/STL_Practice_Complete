@@ -139,12 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bank_cust_info.cpp" />
+    <ClCompile Include="devtesting.cpp" />
     <ClCompile Include="logging.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common_includes.h" />
+    <ClInclude Include="bank_cust_info.h" />
+    <ClInclude Include="devtesting.h" />
     <ClInclude Include="logging.h" />
     <ClInclude Include="utilities.h" />
     <ClInclude Include="vector.h" />
